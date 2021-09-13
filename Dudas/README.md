@@ -17,6 +17,11 @@ Para realizar su pregunta, seguir el siguiente formato:
 1. Estaba revisando las funciones Nativas que se indican en el proyecto, sin embargo no se aclara si los parámetros a recibir deben de ser en Radianes o en Grados.
 Esto para tener un poco más ordenado y entendible este documento.
 
+2. En los archivos de entrada proporcionados para el proyecto existen varias instrucciones que no se especificaron en el proyecto tales como:
+   ~ temp::Int64 = arr[i] el cual la declaracion del tipo de dato esta antes de su asignacion 
+   ~ Structs como tipo, esto no fue dicho en el proyecto
+   ~ Funciones push y pop para las listas, en el proyecto se indican como "push" y "pop" y en los archivos de ejemplo vienen como "push!" y "pop!"
+
 ## SECCIÓN DE PREGUNTAS
 
 ### Pregunta Welmann29
